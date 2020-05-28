@@ -1,5 +1,9 @@
 # Python Buildpack Changelog
 
+# Master
+
+- Add `bin/test` to detect and trigger unit tests if desired
+
 # 170 (2020-05-19)
 
 - Python 2.7.18, 3.5.9, 3.7.7 and 3.8.3 are now available (CPython).
